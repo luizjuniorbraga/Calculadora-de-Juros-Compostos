@@ -31,3 +31,18 @@ Uma calculadora de juros compostos simples e elegante, desenvolvida com HTML, CS
 
 A calculadora utiliza a fórmula padrão de juros compostos:
 
+Onde:
+- **Capital**: Valor inicial investido
+- **Taxa**: Taxa de juros mensal (convertida de porcentagem para decimal)
+- **Tempo**: Período em meses
+
+## 🎯 Como Usar
+
+1. **Digite o valor inicial** (capital) que deseja investir
+2. **Informe a taxa de juros mensal** em porcentagem (ex: 2 para 2%)
+3. **Defina o tempo de rendimento** em meses
+4. **Clique em "Calcular"** para ver o resultado
+5. O montante final será exibido automaticamente
+
+
+
