@@ -1,6 +1,6 @@
 # Calculadora de Juros Compostos 💰
 
-![Calculadora de Juros Compostos](link-para-uma-imagem-do-projeto)
+[Calculadora de Juros Compostos](link-para-uma-imagem-do-projeto)
 
 Uma calculadora de juros compostos simples e elegante, desenvolvida com HTML, CSS e JavaScript puro. O projeto apresenta uma interface moderna com gradiente roxo e azul, seguindo as melhores práticas de design.
 
